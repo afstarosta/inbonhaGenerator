@@ -1,0 +1,12 @@
+.pink-bg{
+  background-color: #ae6a92;
+}
+.textfield{
+  background-color: #FFF;
+  border-style: solid;
+  border-color: #000;
+  vertical-align:top;
+}
+h3{
+  display: inline !important;
+}
