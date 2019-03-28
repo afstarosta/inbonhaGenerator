@@ -1,5 +1,5 @@
 # inbonhaGenerator
-<h1>Names generator for the brazilian meme Turma da Inbonha</h1>
+<h1>Name generator for the brazilian meme Turma da Inbonha</h1>
 <br/>
 <br/>
 <h1> What is Turma da Inbonha?</h1>
